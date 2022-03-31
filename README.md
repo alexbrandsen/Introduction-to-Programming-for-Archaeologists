@@ -1,5 +1,5 @@
-# Introduction-to-Programming-for-Archaeologists
-Course materials for the "Introduction to programming for archaeologists" BA2 course at Leiden University.
+# Introduction to Programming for Archaeologists
+Course materials for the "Introduction to programming for archaeologists" BA2 course at Leiden University. This course starts from the basics, and assumes you have no prior coding experience.
 
 To start, follow these steps:
 
