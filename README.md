@@ -6,11 +6,11 @@ To start, follow these steps:
 - Download Anaconda (https://www.anaconda.com/products/distribution)
 - Install Anaconda
 - Create folder to hold all your scripts
-- [Download code](https://github.com/alexbrandsen/Introduction-to-Programming-for-Archaeologists/archive/refs/heads/main.zip) from github, save in your Scripts folder
+- Download the relevant module by right clicking on it, then selecting 'save link as'. Save in your Scripts folder
 - Start Jupyter Notebook from Anaconda
-- Navigate to the exercise folder, select relevant Notebook
+- Navigate to the Scripts folder, select relevant Notebook
 - Read explanations
 - Run cells by pressing ‘play’ button, or press SHIFT+ENTER
 - Edit code in cells where needed
-- Do exercises (marked with ## EXERCISE  ##)
+- Do exercises (marked with ## EXERCISE ##)
 
