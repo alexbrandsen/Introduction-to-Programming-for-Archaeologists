@@ -15,5 +15,5 @@ To start, follow these steps:
 - Do exercises (marked with ## EXERCISE ##)
 
 Can't get Anaconda to work? Try using Binder: https://mybinder.org/v2/gh/alexbrandsen/Introduction-to-Programming-for-Archaeologists/HEAD
-This will allow you to do the exercises in your browser without installing anything.
+This will allow you to do the exercises in your browser without installing anything. Note: as this is all done remotely, you have to use the 'download' button to save your work!
 
