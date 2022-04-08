@@ -14,3 +14,6 @@ To start, follow these steps:
 - Edit code in cells where needed
 - Do exercises (marked with ## EXERCISE ##)
 
+Can't get Anaconda to work? Try using Binder: https://mybinder.org/v2/gh/alexbrandsen/Introduction-to-Programming-for-Archaeologists/HEAD
+This will allow you to do the exercises in your browser without installing anything.
+
